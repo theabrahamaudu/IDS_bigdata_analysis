@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # Data files
-data
+data/raw/UNSW*
