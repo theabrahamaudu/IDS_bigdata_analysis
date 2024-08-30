@@ -1,6 +1,6 @@
 CREATE DATABASE IF NOT EXISTS ids
 COMMENT 'Database for IDS Data'
-LOCATION '/user/ids_analysis/';
+LOCATION '/user/ids_analysis/db/';
 
 CREATE TABLE IF NOT EXISTS ids.data (
     srcip STRING,

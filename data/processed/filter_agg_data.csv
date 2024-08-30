@@ -1,0 +1,11 @@
+proto  	attack_count
+udp    	      223750
+tcp    	       58184
+unas   	       16202
+ospf   	        3278
+sctp   	        1525
+any    	         411
+gre    	         324
+rsvp   	         274
+ipv6   	         272
+sun-nd 	         262

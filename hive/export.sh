@@ -17,4 +17,4 @@ if [ -z "$script" ] || [ -z "$output" ]; then
 fi
 
 # Execute Hive command
-hive -f "./hive/${script}.hql" > "./data/processed/${output}.csv"
+hive -f "./hive/analysis/${script}.hql" > "./data/processed/${output}.csv"
